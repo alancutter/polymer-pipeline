@@ -1,0 +1,9 @@
+{
+  "name": "polymer-pipeline",
+  "description": "Polymer Pipeline",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer",
+    "polymer-ui-overlay": "Polymer/polymer-ui-overlay"
+  }
+}
